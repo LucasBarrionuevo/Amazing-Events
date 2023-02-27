@@ -1,0 +1,19 @@
+.checkbox label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.checkbox label input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.card-img-top {
+    height: 200px;
+    /* Establece una altura fija para las imágenes */
+    object-fit: cover;
+    /* Ajusta la imagen al tamaño del contenedor del card sin perder su relación de aspecto */
+}
